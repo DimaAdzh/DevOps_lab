@@ -1,0 +1,12 @@
+{
+    "name": "file-size-checker",
+    "version": "1.0.0",
+    "description": "Cron job for checking file size and interacting with Redis",
+    "main": "monitor.js",
+    "scripts": {
+     "start": "node monitor.js"
+    },
+    "dependencies": {
+     "redis": "^3.1.2"
+    }
+   }
