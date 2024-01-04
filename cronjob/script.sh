@@ -1,0 +1,1 @@
+node C:/Users/dima/Desktop/DevOps_lab/cronjob/monitor.js
